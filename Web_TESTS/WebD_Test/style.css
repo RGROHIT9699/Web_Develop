@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+/* #navb{
+    position: static;
+} */
+#navb{
+    width: 100%;
+    background-color: bisque;
+    height: 50px;
+    position: fixed;
+    color: red;
+    padding: 4px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div2{
+    width: 90%;
+    background-color: darkgray;
+    /* align-items: center; */
+    text-align: center;
+    height: 70px;
+    margin: auto;
+    border-radius: 15px;
+    /* padding: 10px; */
+}
+#div2 h3{
+    color:purple;
+    padding: 4px;
+}
+#div2 p{
+    padding: 2px;
+}
+#img1{
+    display: inline;
+    margin-left: 100px;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+
+}
+#img1 img{
+    align-items: center;
+    align-content: center;
+    width: 25%;
+    padding: 10px;
+    border-radius: 12%;
+}
+#img2{
+    display: inline;
+    margin-left: 100px;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+
+}
+#img2 img{
+    align-items: center;
+    align-content: center;
+    width: 25%;
+    padding: 10px;
+    border-radius: 12%;
+}
+#img3{
+    display: inline;
+    margin-left: 100px;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+
+}
+#img3 img{
+    align-items: center;
+    align-content: center;
+    width: 25%;
+    padding: 10px;
+    border-radius: 12%;
+}

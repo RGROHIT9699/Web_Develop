@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img {
+    background-image: url("melody-zimmerman-sn_8jB49Vqk-unsplash.jpg");
+    min-height: 620px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;    
+}
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+}
+.topnav a {
+  float: left;
+  color:burlywood;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}  
+.topnav a:hover {
+    background-color: rgb(252, 7, 7);
+   color: black;
+}
+#div11 h2{
+    text-align: center;
+    font-weight: 450;
+    word-spacing: 8px;
+}
+#p1{
+    text-align: center;
+    font-weight: 150;
+    font-style: italic;
+}
+#div11 {
+    margin: 40px;
+}
+#div11 p{
+    margin-right: 150px;
+    margin-left: 160px;
+}
+#div4{
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+#div4li{
+    display: flex;
+    color: rgb(0, 0, 0);
+    justify-content:space-evenly;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    margin-top: -5px;
+}
+#div4li1{
+    display: flex;
+    color: rgb(0, 0, 0);
+    justify-content:space-around;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+}
+#div4 img{
+    width: 180px;
+}
+#div55{
+    padding: 80px;
+    background-image: url("mike-yukhtenko-wfh8dDlNFOk-unsplash.jpg");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+#div365{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 35px;
+}
+#div55{
+    color: white;
+}
+#div55 h2{
+    text-align: center;
+    font-weight: 350;
+    word-spacing: 8px;
+}
+#div996{
+    margin: 50px;
+}
+#div996 h3{
+    text-align: center;
+    font-weight: 350;
+    word-spacing: 8px;
+}
+#div5511{
+    margin: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+#divul li{
+    list-style: none;
+}
+#btt{
+    color: white;
+    width: 80px;
+    background-color: black;
+}
+#dis{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    /* padding: 10px; */
+}
+#bbb{
+    margin: 15px;
+    text-align: right;
+}

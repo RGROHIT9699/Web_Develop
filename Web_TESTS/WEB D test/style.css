@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img {
+    background-image: url("clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  /* background-color: #333; */
+}
+.topnav a {
+  float: left;
+  color:gray;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}  
+.topnav a:hover {
+    background-color: white;
+   color: black;
+}  
+#div1 p{
+    text-wrap:initial ;
+    text-align: center;
+    align-items: center;
+    font-weight: 100;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 0;
+}
+p{
+    font-weight: 100;
+    text-wrap:initial ;
+}
+#para{
+    margin-top: 40px;
+    font-size: large;
+    font-weight:300;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+#div2{
+    display: flex;
+    margin: 20px;
+    padding: 20px
+}
+#ivimg{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+#div3{
+    margin: 30px;
+}
+#div4{
+    background-color: gray;
+    /* width: 40px; */
+    padding: 20px;
+    margin: 20px;
+    /* display: flex; */
+    text-decoration: none;
+    list-style: none;
+}
+#div4li{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+}
+#dib1{
+    background-image: url("clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
